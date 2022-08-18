@@ -3,4 +3,4 @@
 #secure
 #create to-do list
 #recreates your memory
-![ganesh](https://www.ganeshbabu.xyz/static/media/profile.332d2466231834df558b.png)
+![ganesh](https://raw.githubusercontent.com/Logesh89/To-do-List-manager/main/scr/Screenshot%20(14).png)
